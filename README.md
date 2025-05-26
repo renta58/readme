@@ -53,7 +53,7 @@ Pengujian dilakukan secara menyeluruh:
 - **Performance Testing** – Waktu eksekusi pipeline batch
 - **End-to-End Testing** – Simulasi jalur penuh dari data mentah ke visualisasi
 
-## 📂 Struktur Folder
+##  Struktur Folder
 
 ```bash
 ├── data/
